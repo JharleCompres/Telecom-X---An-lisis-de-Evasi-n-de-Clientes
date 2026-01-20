@@ -93,7 +93,7 @@ jupyter notebook
 2. Abre el archivo:
 
 ```
-Telecom-X---An-lisis-de-Evasi-n-de-Clientes.ipynb
+Telecom_X_Análisis_de_Evasión_de_Clientes.ipynb
 ```
 
 3. Ejecuta las celdas en orden para reproducir el análisis completo.
