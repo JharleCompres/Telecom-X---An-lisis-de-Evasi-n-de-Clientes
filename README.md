@@ -1,7 +1,5 @@
 # 📊 Análisis de Evasión de Clientes (Churn) – Telecom X
 
-![Diccionario de Datos](./assets/diccionario_datos.png)
-
 ## 🧠 Descripción del Proyecto
 
 Este proyecto tiene como objetivo **analizar y comprender las causas de la evasión de clientes (Churn)** en una empresa de telecomunicaciones, utilizando técnicas de **análisis exploratorio de datos (EDA)** y visualización.
